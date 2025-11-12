@@ -1,0 +1,13 @@
+asgiref==3.10.0
+colorama==0.4.6
+Django==4.2.26
+django-environ==0.12.0
+packaging==25.0
+prompt_toolkit==3.0.52
+pycparser==2.23
+six==1.17.0
+sqlparse==0.5.3
+typing_extensions==4.15.0
+tzdata==2025.2
+vine==5.1.0
+wcwidth==0.2.14
